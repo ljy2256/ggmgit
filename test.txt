@@ -28,3 +28,8 @@ git checkout master <= 마스터 브랜치의 최신버전으로 돌아갈래
 퀴즈해결로 git lob 확인창을 보여주면 됩니다.
 하이하이
 aa
+
+vs 코드에서 커밋시에는 ctrl + enter치면 커밋이 됩니다.
+git remote add origin 주소
+
+git remote -v
