@@ -8,3 +8,13 @@ git-scm
 
 ctrl + ~ (숫자키 1 왼쪽에 있어)
 git init: 해당 폴더를 깃으로 관리하는 폴더로 초기화하는 명령
+
+git config --global user.name "깃허브아이디"
+git config --global user.email "깃허브이메일"
+
+git add test.txt
+
+git commit -m "최초의 커밋입니다"
+
+두번째로 수정을 해봅시다.
+아무거나 아무거나
