@@ -18,3 +18,13 @@ git commit -m "최초의 커밋입니다"
 
 두번째로 수정을 해봅시다.
 아무거나 아무거나
+git add . 그냥 다 들어가게함
+
+git log
+
+git checkout 넘버4개
+git checkout master <= 마스터 브랜치의 최신버전으로 돌아갈래
+아무말이나 변경하시고 add commit을 수행하는데 커밋메시지는
+퀴즈해결로 git lob 확인창을 보여주면 됩니다.
+하이하이
+aa
