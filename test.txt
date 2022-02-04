@@ -33,3 +33,4 @@ vs 코드에서 커밋시에는 ctrl + enter치면 커밋이 됩니다.
 git remote add origin 주소
 
 git remote -v
+asdfasdfasdf 또ㅓ 변경합니다
